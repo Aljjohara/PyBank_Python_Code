@@ -1,1 +1,0 @@
-vegetarian curry + king trumpet mushroom ramen {'01-count': 8824, '02-revenue': 114712, '03-cogs': 61768, '04-profit': 52944}
